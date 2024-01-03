@@ -1,0 +1,5 @@
+package com.kamil.beans;
+
+public class Field {
+
+}
